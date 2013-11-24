@@ -34,7 +34,8 @@ A repository for robotics stuff with JavaScript.
 * [Raspberry PI - Kit Kano](http://www.youtube.com/watch?v=iNc6NRX2JG4)
 * [Raspberry PI - Tank robot video streaming demo](http://www.youtube.com/watch?v=l1RJf-XwoIE)
 * [Raspberry PI - Learn to Build a Portable Raspberry PI (Part 1)](http://www.youtube.com/watch?v=dUZjzQuTNX4)
-* * [Raspberry PI - Learn to Build a Portable Raspberry PI (Part 2)](http://www.youtube.com/watch?v=7DVyHE8MJLY)
+* [Raspberry PI - Learn to Build a Portable Raspberry PI (Part 2)](http://www.youtube.com/watch?v=7DVyHE8MJLY)
+* [Raspberry PI - Home Automation with the Raspberry Pi and Node.js](http://www.youtube.com/watch?v=SEAQVXHSwg4)
 
 #### Tessel
 * [Tessel - Preview: Pushing code, servos, and UDP](https://www.youtube.com/watch?v=XCwKzipBIaA)
@@ -60,10 +61,12 @@ A repository for robotics stuff with JavaScript.
 
 ## Shopping
 * [Adafruit](http://www.adafruit.com/)
+* [Farnell Newark Brasil](http://www.farnellnewark.com.br/)
 
 ## Community
 * [NodeBots](http://nodebots.io/)
 * [NodeCopter](http://nodecopter.com/)
 * [Robotics](http://robotics.stackexchange.com/)
+* [Element14](http://www.element14.com/community/welcome)
 
 ## Playground
