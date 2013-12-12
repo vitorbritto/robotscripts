@@ -24,7 +24,8 @@ A repository for robotics stuff with JavaScript.
 
 ## Videos
 
-#### Raspberry PI
+**Raspberry PI**
+
 * [Raspberry PI - How to set up for the first time](http://www.youtube.com/watch?v=lG7BeR19YHc)
 * [Raspberry PI - With Node.js](http://www.youtube.com/watch?v=J6g53Hm0rq4)
 * [Raspberry PI - Robot using node.js and socket.io](http://www.youtube.com/watch?v=SWSpRyCDfZE)
@@ -37,10 +38,12 @@ A repository for robotics stuff with JavaScript.
 * [Raspberry PI - Learn to Build a Portable Raspberry PI (Part 2)](http://www.youtube.com/watch?v=7DVyHE8MJLY)
 * [Raspberry PI - Home Automation with the Raspberry Pi and Node.js](http://www.youtube.com/watch?v=SEAQVXHSwg4)
 
-#### Tessel
+**Tessel**
+
 * [Tessel - Preview: Pushing code, servos, and UDP](https://www.youtube.com/watch?v=XCwKzipBIaA)
 
-#### Espruino
+**Espruino**
+
 * [Espruino - Web IDE](https://www.youtube.com/watch?v=r97MukzhBss)
 * [Espruino - Getting started with Espruino](https://www.youtube.com/watch?v=j1TsCmDhFtk#t=59)
 * [Espruino - Espruino e Javascript para controlar sua casa | Info](http://info.abril.com.br/noticias/blogs/zonalivre/hardware/espruino-quer-usar-javascript-para-controlar-sua-casa/)
@@ -55,6 +58,7 @@ A repository for robotics stuff with JavaScript.
 * [Arduino](http://www.arduino.cc/)
 * [Espruino](http://www.espruino.com/)
 * [Beagle Board](http://beagleboard.org/)
+* [Cubie Board](http://www.cubieboard.com.br/)
 * [Raspberry PI](http://www.raspberrypi.org/)
 * [Kano](http://www.kickstarter.com/projects/alexklein/kano-a-computer-anyone-can-make)
 * [Tessel](http://tessel.io/)
@@ -62,6 +66,7 @@ A repository for robotics stuff with JavaScript.
 ## Shopping
 * [Adafruit](http://www.adafruit.com/)
 * [Farnell Newark Brasil](http://www.farnellnewark.com.br/)
+* [Loja Mundi](http://www.lojamundi.com.br/embarcado-raspberry-cubieboard-beagleboneblack.html)
 
 ## Community
 * [NodeBots](http://nodebots.io/)
