@@ -62,6 +62,7 @@ A repository for robotics stuff with JavaScript.
 * [Raspberry PI](http://www.raspberrypi.org/)
 * [Kano](http://www.kickstarter.com/projects/alexklein/kano-a-computer-anyone-can-make)
 * [Tessel](http://tessel.io/)
+* [Spark](https://www.spark.io/) - Spark gives you the tools to connect everyday electronics to the internet over Wi-Fi.
 
 ## Shopping
 * [Adafruit](http://www.adafruit.com/)
