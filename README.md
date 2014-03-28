@@ -2,6 +2,9 @@
 
 A repository for robotics stuff with JavaScript.
 
+
+## Table of Contents
+
 * [Articles](#articles)
 * [Slides](#slides)
 * [Videos](#videos)
@@ -11,7 +14,7 @@ A repository for robotics stuff with JavaScript.
 * [Community](#community)
 * [Playground](#playground)
 
-## Articles
+### Articles
 * [Arduino - Let Me Teach You Arduino, With JavaScript!](http://lostechies.com/derickbailey/2013/07/30/let-me-teach-you-arduino-with-javascript/)
 * [Tessel - Dragon Innovation](http://www.dragoninnovation.com/projects/22-tessel)
 * [Beaglebone - Node.js for the BeagleBone Black](http://www.armhf.com/index.php/node-js-for-the-beaglebone-black/)
@@ -19,10 +22,10 @@ A repository for robotics stuff with JavaScript.
 * [Raspberry PI - Home Automation with AngularJS and node.js on a Raspberry PI](https://blog.codecentric.de/en/2013/03/home-automation-with-angularjs-and-node-js-on-a-raspberry-pi/)
 * [Raspberry PI / Kano](http://tecnoblog.net/145452/financie-isso-kit-kano/)
 
-## Slides
+### Slides
 * [Tessel - The End of Web Development (as we know it)](http://www.slideshare.net/TechnicalMachine/tessel-the-end-of-web-development-as-we-know-it)
 
-## Videos
+### Videos
 
 **Raspberry PI**
 
@@ -48,13 +51,13 @@ A repository for robotics stuff with JavaScript.
 * [Espruino - Getting started with Espruino](https://www.youtube.com/watch?v=j1TsCmDhFtk#t=59)
 * [Espruino - Espruino e Javascript para controlar sua casa | Info](http://info.abril.com.br/noticias/blogs/zonalivre/hardware/espruino-quer-usar-javascript-para-controlar-sua-casa/)
 
-## Tools
+### Tools
 * [Cylon JS](http://cylonjs.com/)
 * [Noduino](http://semu.github.io/noduino/) - Control Arduino with Node.js, WebSockets and HTML5
 * [Duino](https://github.com/ecto/duino) - Arduino framework for node.js
 * [heimcontrol.js](http://ni-c.github.io/heimcontrol.js/) - Awesome home automation with Raspberry PI and Arduino using Node.js, MongoDB, HTML5 and Websockets
 
-## Hardwares
+### Hardwares
 * [Arduino](http://www.arduino.cc/)
 * [Espruino](http://www.espruino.com/)
 * [Beagle Board](http://beagleboard.org/)
@@ -64,15 +67,21 @@ A repository for robotics stuff with JavaScript.
 * [Tessel](http://tessel.io/)
 * [Spark](https://www.spark.io/) - Spark gives you the tools to connect everyday electronics to the internet over Wi-Fi.
 
-## Shopping
+### Shopping
 * [Adafruit](http://www.adafruit.com/)
 * [Farnell Newark Brasil](http://www.farnellnewark.com.br/)
 * [Loja Mundi](http://www.lojamundi.com.br/embarcado-raspberry-cubieboard-beagleboneblack.html)
 
-## Community
+### Community
 * [NodeBots](http://nodebots.io/)
 * [NodeCopter](http://nodecopter.com/)
 * [Robotics](http://robotics.stackexchange.com/)
 * [Element14](http://www.element14.com/community/welcome)
 
-## Playground
+### Playground
+
+
+## License
+
+[MIT License](http://vitorbritto.mit-license.org/) © Vitor Britto
+
